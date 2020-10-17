@@ -78,7 +78,7 @@ strong {
   border-bottom: 1px solid #b2d2e1;
 }
 #header .title {
-  float: left;
+  float: none;
 }
 #header .nav {
   float: right;
